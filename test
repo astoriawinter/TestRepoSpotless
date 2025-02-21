@@ -1,0 +1,33 @@
+<html>
+<div style="display:inline-block;">
+<a href="file:/Users/rodionovati/projects/android/android-core/ptt/ptt_app/GuardedAndroidManifest.xml" target="_blank">Reference AndroidManifest.xml</a>
+<br/>
+<a href="file:/Users/rodionovati/projects/android/android-core/ptt/ptt_app/build/intermediates/merged_manifest/googleStoreRelease/processGoogleStoreReleaseMainManifest/AndroidManifest.xml" target="_blank">Merged AndroidManifest.xml</a>
+<h3>Removed AndroidManifest.xml items:</h3>
+<ul>
+<li>
+manifest/application/activity/intent-filter/data<br/>
+<div style="background:#ffe6e6;">
+<pre>
+&lt;data
+    android:host=&quot;*.tutu.ru&quot;
+    android:pathPattern=&quot;/user/profile/my_orders/.*/.*&quot;
+    android:scheme=&quot;https&quot; /&gt;</pre>
+</div>
+</li>
+</ul>
+<h3>Added AndroidManifest.xml items:</h3>
+<ul>
+<li>
+manifest/application/activity/intent-filter/data<br/>
+<div style="background:#e6ffe6;">
+<pre>
+&lt;data
+    android:host=&quot;*.tutu.ru&quot;
+    android:pathPattern=&quot;/user/profile/my_orders/.*/.*/ffdfs&quot;
+    android:scheme=&quot;https&quot; /&gt;</pre>
+</div>
+</li>
+</ul>
+</div>
+</html>
