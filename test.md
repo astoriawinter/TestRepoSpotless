@@ -13,4 +13,4 @@
 | appsflyer             | МарТех       | @astoriawinter        | @astoriawinter    |
 | chat                  | Мессенджер   | @astoriawinter        | @astoriawinter    |
 | hotels                | Отели        | @astoriawinter        | @astoriawinter    |
-| emp                   | ПТТ          | @astoriawinter        | @astoriawinter    |
+| ptt                   | ПТТ          | @astoriawinter        | @astoriawinter    |
